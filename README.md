@@ -67,7 +67,7 @@ Soy un apasionado por la tecnología y la innovación, con un fuerte enfoque en 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=albert12432&theme=flat&no-frame=true&margin-w=15" alt="Trofeos" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albert12432&theme=merko&hide_border=true&bg_color=00000000" alt="Racha de GitHub" />
 </div>
 
 ---
